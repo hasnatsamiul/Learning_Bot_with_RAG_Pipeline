@@ -1,0 +1,15 @@
+python-dotenv==1.1.1
+
+fastapi==0.115.14
+uvicorn==0.35.0
+
+langchain-core==0.3.83
+langchain-community==0.3.27
+langgraph>=0.5.4
+langchain-google-genai==2.1.6
+
+faiss-cpu==1.13.2
+
+unstructured[all-docs]
+pyjwt[crypto]
+sentence-transformers==2.7.0

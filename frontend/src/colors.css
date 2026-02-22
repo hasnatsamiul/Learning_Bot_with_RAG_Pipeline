@@ -1,0 +1,16 @@
+:root {
+  --bg-color: #a3a3a5;
+  --text-color: #FFFBDE;
+  --subtext-color: #FFFBDE;
+  --header-bg: #555879;
+  --border-color: #FFFBDE;
+  --input-border: #ccc;
+  --input-bg: #FFFBDE;
+  --input-text: #1c1c1c;
+  --user-msg: #98A1BC;
+  --user-text: #FFFBDE;
+  --ai-msg: rgba(0, 0, 0, 0);
+  --ai-text: #000;
+  --ai-border: #FFFBDE;
+  --reload-color: #FFFBDE;
+}
