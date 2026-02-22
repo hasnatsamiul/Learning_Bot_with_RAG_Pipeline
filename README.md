@@ -17,7 +17,8 @@ This project enables users to query PDF documents and receive grounded, context-
 
 The system ensures answers are based only on indexed documents.
 
-<img width="1507" height="829" alt="Screenshot 2026-02-21 at 23 03 13" src="https://github.com/user-attachments/assets/f8974c06-89d8-4e16-8070-3285fc7d869a" />
+
+<img width="1507" height="829" alt="Screenshot 2026-02-21 at 23 03 13" src="https://github.com/user-attachments/assets/fcb852d4-90b9-41bf-80bb-bec54419dcd8" />
 
 
 ---
